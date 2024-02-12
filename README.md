@@ -1,13 +1,15 @@
-Event Management and Tic Tac Toe
+Title: Event Management and Tic Tac Toe
 
-Group 8
+Group: 8
 
-Group Member .............ID
+Group Members:
 
-Ariyam Yilma .........ETS0212/14
+Name                  | Id
 
-Arsema H/eyesus.......ETS0215/14
+Ariyam Yilma          | ETS0212/14
 
-Arsema Abate..........ETS0216/14
+Arsema H/eyesus       | ETS0215/14
 
-Ayub Sufiane.........ETS0238/14
+Arsema Abate          | ETS0216/14
+
+Ayub Sufiane          | ETS0238/14
